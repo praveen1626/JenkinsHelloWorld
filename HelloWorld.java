@@ -4,8 +4,9 @@
 public class HelloWorld
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		System.out.println("Hello World Made some changes!");
 		System.out.println(24+26);
 		System.out.println(152-24);
+		System.out.println(15*15);
 	}
 }
